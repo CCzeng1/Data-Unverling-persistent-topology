@@ -1,2 +1,2 @@
-# Data-Unverling-persistent-topology
+# Data-Unveiling-persistent-topology
 Here are the raw data and the codes we used to make the plot in draft: Unveiling persistent topology; More are coming in the near future ...
